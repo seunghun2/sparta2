@@ -1,0 +1,13 @@
+.divcontainer-1200
+{
+    width: 1200px;
+    margin:  auto; 
+    
+}
+
+.bg{
+    width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+    border: 1px solid #dddddd;
+}
