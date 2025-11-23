@@ -1,0 +1,21 @@
+{
+  "name": "randomchat-backend",
+  "version": "1.0.0",
+  "description": "Global Random Chat Backend API Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["chat", "random", "matching", "api"],
+  "author": "Global Chat Team",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
